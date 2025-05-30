@@ -1,5 +1,7 @@
 # Calcolatrice-x86
 Calcolatrice per operazioni basilari in linguaggio Assembly x86
+![Anteprima della calcolatrice](moltiplicazione-a-due-cifre.png)
+
 
 ## 📌 Funzionalità  
 - Somma, sottrazione, moltiplicazione e divisione  
